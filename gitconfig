@@ -1,0 +1,15 @@
+[alias]
+	br = branch
+	co = checkout
+	df = diff
+	rs = reset
+	rb = rebase
+	gp = grep -n
+	st = status
+	lg = log --pretty=format:\"%h (%ci) %s\"
+	ad = add
+[user]
+	name = xiaoqiang zhao
+	email = zxq_yx_007@163.com
+[core]
+	editor = vim
